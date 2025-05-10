@@ -85,7 +85,7 @@ An interactive Streamlit web application that recommends restaurants based on us
 # 🍽️ Restaurant Recommendation System
 
 <p align="center">
-  <img src="assets/screenshot.png" alt="App Screenshot" width="600"/>
+  <img src="Screenshot 2025-05-10 190414.png" alt="App Screenshot" width="600"/>
 </p>
 
 An interactive Streamlit web application...
