@@ -76,9 +76,9 @@ An interactive Streamlit web application that recommends restaurants based on us
 3. streamlit run app.py
 
 
-├── app.py                  # Streamlit application code
-├── cleaned_data_small.csv  # Preprocessed restaurant dataset
-└── README.md               # Project documentation
+   ├── app.py                  # Streamlit application code
+   ├── cleaned_data_small.csv  # Preprocessed restaurant dataset
+   └── README.md               # Project documentation
 
 
 
